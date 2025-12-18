@@ -1,11 +1,11 @@
 # Schedule-I-Simplified-Chinese-Patch
 Schedule I简中汉化补丁
-![20D25A~1](https://github.com/user-attachments/assets/490f78b5-e35c-4c65-baf4-9ebf042bdb97)
-
-
 安装教程视频：https://www.bilibili.com/video/BV1WL22BQE33
 
 油管：https://youtu.be/YoFCeSa6Lyk
+
+![20D25A~1](https://github.com/user-attachments/assets/490f78b5-e35c-4c65-baf4-9ebf042bdb97)
+
 
 # 最新版汉化补丁
 注：运行Font_SC.exe会自动备份sharedassets0.assets文件 (bak文件)
