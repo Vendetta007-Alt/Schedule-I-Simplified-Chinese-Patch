@@ -16,7 +16,7 @@ Schedule I简中汉化补丁
 # 通用版汉化补丁
 由于多人反馈最新版本的补丁安装汉化失败，闪退，粉屏等问题，故上传了个通用版汉化补丁，目前各版本通用
 
-该补丁为打包好的通用版（无schedule 1_data的sharedassets0.assets文件，增加了字体替换工具和字体文件）
+该补丁为打包好的通用版（无schedule 1_data文件夹的sharedassets0.assets文件，增加了字体替换工具和字体文件）
 
 安装后直接运行font_SC.exe选择字体文件替换即可，确保字体替换成功（出现“字体替换完成 操作成功完成”提示），检查schedule 1_data文件夹的sharedassets0.assets文件是否替换成功（看文件大小和文件修改时间是否改变）
 
@@ -32,5 +32,7 @@ https://forum.gamer.com.tw/C.php?page=1&bsn=82540&snA=6
 https://github.com/XoF-eLtTiL/Tang-Family-Server/releases/tag/SI
 
 https://github.com/bbepis/XUnity.AutoTranslator
+
+https://forum.gamer.com.tw/Co.php?bsn=82540&sn=35
 
 https://drive.google.com/drive/folders/1YUBnhHULnlY8l48rvEkuJR_zOGbtH9WT
