@@ -1,11 +1,9 @@
 # Schedule-I-Simplified-Chinese-Patch
 Schedule I简中汉化补丁
 
-安装教程视频：https://www.bilibili.com/video/BV1WL22BQE33
+[安装教程视频](https://www.bilibili.com/video/BV1WL22BQE33)
 
-油管：[https://youtu.be/YoFCeSa6Lyk](https://www.youtube.com/playlist?list=PLzb7p3e2nBdWsR347u1H2mteFL4VkXw_2)
-
-![20D25A~1](https://github.com/user-attachments/assets/490f78b5-e35c-4c65-baf4-9ebf042bdb97)
+[Youtube教程视频](https://www.youtube.com/playlist?list=PLzb7p3e2nBdWsR347u1H2mteFL4VkXw_2)
 
 
 # 最新版汉化补丁
@@ -32,15 +30,15 @@ font_SC.exe是用繁中字体替换工具源代码制作的简中字体替换工
 # 原理
 Schedule 1_data文件夹的sharedassets0.assets文件是Unity游戏资产文件，包含游戏字体文件，但是英文字体和中文字体（包括简中和繁中）是不一样的，xuntiy-translator插件若要翻译英文成中文就需要中文字体文件，否则就会字体缺失出现仍然是英文或者口口口的情况，这也就是为什么每次游戏更新旧汉化补丁都会失效，游戏更新也更新了sharedassets0.assets文件，又变回英文字体了，这个字体替换程序就能把资产文件的英文字体替换成中文字体了，并且简繁中都适用！
 
-替换资产字体文件也可以用这个工具：https://github.com/HanFengRuYue/XUnityToolkit
+替换资产字体文件也可以用这个[工具](https://github.com/HanFengRuYue/XUnityToolkit)
 
 # 参考
-繁中补丁原帖：https://forum.gamer.com.tw/C.php?page=1&bsn=82540&snA=6
+[繁中补丁原帖](https://forum.gamer.com.tw/C.php?page=1&bsn=82540&snA=6)
 
-繁中补丁链接：https://github.com/XoF-eLtTiL/Tang-Family-Server/releases/tag/SI
+[繁中补丁链接](https://github.com/XoF-eLtTiL/Tang-Family-Server/releases/tag/SI)
 
-翻译插件：https://github.com/bbepis/XUnity.AutoTranslator
+[翻译插件](https://github.com/bbepis/XUnity.AutoTranslator)
 
-字体替换提出方案：https://forum.gamer.com.tw/Co.php?bsn=82540&sn=35
+[字体替换提出方案](https://forum.gamer.com.tw/Co.php?bsn=82540&sn=35)
 
-繁中字体替换工具及源代码：https://drive.google.com/drive/folders/1YUBnhHULnlY8l48rvEkuJR_zOGbtH9WT
+[繁中字体替换工具及源代码](https://drive.google.com/drive/folders/1YUBnhHULnlY8l48rvEkuJR_zOGbtH9WT)
